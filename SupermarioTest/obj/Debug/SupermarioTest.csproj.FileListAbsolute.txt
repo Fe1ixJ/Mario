@@ -1,0 +1,11 @@
+C:\Users\feljoh041\source\repos\SupermarioTest\SupermarioTest\bin\Debug\SupermarioTest.exe.config
+C:\Users\feljoh041\source\repos\SupermarioTest\SupermarioTest\bin\Debug\SupermarioTest.exe
+C:\Users\feljoh041\source\repos\SupermarioTest\SupermarioTest\bin\Debug\SupermarioTest.pdb
+C:\Users\feljoh041\source\repos\SupermarioTest\SupermarioTest\obj\Debug\SupermarioTest.csproj.AssemblyReference.cache
+C:\Users\feljoh041\source\repos\SupermarioTest\SupermarioTest\obj\Debug\SupermarioTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\feljoh041\source\repos\SupermarioTest\SupermarioTest\obj\Debug\SupermarioTest.Form1.resources
+C:\Users\feljoh041\source\repos\SupermarioTest\SupermarioTest\obj\Debug\SupermarioTest.Properties.Resources.resources
+C:\Users\feljoh041\source\repos\SupermarioTest\SupermarioTest\obj\Debug\SupermarioTest.csproj.GenerateResource.cache
+C:\Users\feljoh041\source\repos\SupermarioTest\SupermarioTest\obj\Debug\SupermarioTest.csproj.CoreCompileInputs.cache
+C:\Users\feljoh041\source\repos\SupermarioTest\SupermarioTest\obj\Debug\SupermarioTest.exe
+C:\Users\feljoh041\source\repos\SupermarioTest\SupermarioTest\obj\Debug\SupermarioTest.pdb
